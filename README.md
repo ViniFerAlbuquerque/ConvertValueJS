@@ -9,3 +9,9 @@
 <h3>Libra esterlina</h3>
 
 [🔗Clique Aqui Para Acessar](https://viniferalbuquerque.github.io/ConvertValueJS/)
+<br>
+<h2>Tecnologias utilizadas:</h2>
+<h3>HTML</h3>
+<h3>CSS</h3>
+<h3>JavaScript</h3>
+
