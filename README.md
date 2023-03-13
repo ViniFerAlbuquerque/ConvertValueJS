@@ -15,6 +15,6 @@
 <h3>-CSS</h3>
 <h3>-JavaScript</h3>
 <br>
-<h3>Site para atualização das cotações e demais dados pertinentes:<h3>
+<p>Site para atualização das cotações e demais dados pertinentes:<p>
 <p>https://docs.awesomeapi.com.br/api-de-moedas<p>
 
